@@ -1,0 +1,8 @@
+C:\Users\Vero\OneDrive\Documents\UH JP\EStructura de datos\app prueba\app prueba\bin\Debug\app prueba.exe.config
+C:\Users\Vero\OneDrive\Documents\UH JP\EStructura de datos\app prueba\app prueba\bin\Debug\app prueba.exe
+C:\Users\Vero\OneDrive\Documents\UH JP\EStructura de datos\app prueba\app prueba\bin\Debug\app prueba.pdb
+C:\Users\Vero\OneDrive\Documents\UH JP\EStructura de datos\app prueba\app prueba\obj\Debug\app prueba.csproj.AssemblyReference.cache
+C:\Users\Vero\OneDrive\Documents\UH JP\EStructura de datos\app prueba\app prueba\obj\Debug\app prueba.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vero\OneDrive\Documents\UH JP\EStructura de datos\app prueba\app prueba\obj\Debug\app prueba.csproj.CoreCompileInputs.cache
+C:\Users\Vero\OneDrive\Documents\UH JP\EStructura de datos\app prueba\app prueba\obj\Debug\app prueba.exe
+C:\Users\Vero\OneDrive\Documents\UH JP\EStructura de datos\app prueba\app prueba\obj\Debug\app prueba.pdb
